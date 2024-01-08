@@ -1,1 +1,3 @@
 GitHub on firma, mis pakub tarkvaraarenduseks teenust Git. Peamised GitHubi kasutajad on tarkvaraarendajad, kui ka tarbijad, kes otsivad avatud lähtekoodiga programme.
+Ma ise saan GitHubi kasutada erinevate programmerimistöödeks, kas üksi või siis grupis.
+GitHub asutati 2007 aastal Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos. Teenus muutus kättesaadavaks  8. veebruaril, aastal 2008.
