@@ -1,1 +1,2 @@
 GitHub on firma, mis pakub tarkvaraarenduseks teenust Git. Peamised GitHubi kasutajad on tarkvaraarendajad, kui ka tarbijad, kes otsivad avatud lähtekoodiga programme.
+Ma ise saan GitHubi kasutada erinevate programmerimistöödeks, kas üksi või siis grupis.
